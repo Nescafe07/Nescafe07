@@ -15,6 +15,6 @@
     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img aling="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img aling="center" alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+    <img aling="center" alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
