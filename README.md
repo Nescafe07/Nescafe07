@@ -13,8 +13,8 @@ _**Software Developer | Backend**_
 
 <div>
     <a href="https://github.com/Nescafe07">
-    <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Nescafe07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia>
-    <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Nescafe07&layout=compact&theme=algolia>
+    <img height="150em" src=https://github-readme-stats.vercel.app/api?username=Nescafe07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia>
+    <img height="130em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Nescafe07&layout=compact&theme=algolia>
 </div>
 
 #
