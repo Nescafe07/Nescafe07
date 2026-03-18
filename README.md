@@ -7,6 +7,7 @@ _**Software Developer | Backend**_
     <img aling="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
     <img aling="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img aling="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img aling="center" src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black">
 </div>
 
 ### 🚀 Trilhando o caminho de um Futuro Programador! 
