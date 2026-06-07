@@ -1,4 +1,4 @@
-# 👋 Hello World!
+# 👋 Hello World! 🚀
 _**`Software Engineer | Backend | Cybersecurity Enthusiast`**_
 <!--
 ### 🛠️ Core Technologies
@@ -17,12 +17,6 @@ _**`Software Engineer | Backend | Cybersecurity Enthusiast`**_
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Cybersecurity_Fundamentals-2EA44F?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
 </p>
-
----
-
-🚀 *Charting the path to my future as an Expert Engineer.*
-
----
 
 ### 📫 Let's Connect
 
