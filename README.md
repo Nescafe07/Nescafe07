@@ -17,7 +17,7 @@ _**`Cybersecurity & Software Engineering | WorldSkills #54`**_
 * **Languages:** Python, PHP, C, SQL, Bash
 * **Backend & Frameworks:** FastAPI, Laravel
 * **Databases:** PostgreSQL, MariaDB
-
+<!--
 ---
 
 ### 📊 GitHub Stats
